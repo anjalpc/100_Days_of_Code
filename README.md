@@ -1,4 +1,4 @@
-# 100 Days of Code – Python Learning Journey
+# 100 Days of Code - Python Learning Journey
 
 This repository documents my **100 Days of Code** practice journey, focused on improving my programming skills through daily Python exercises, small projects, and problem-solving tasks.
 
