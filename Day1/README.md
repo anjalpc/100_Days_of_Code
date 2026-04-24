@@ -1,1 +1,1 @@
-Generate you Band's Name
+# Generate you Band's Name
