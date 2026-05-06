@@ -1,3 +1,11 @@
 # Treasure Island Project
 
-The goal is to familiarize with If, Else and Elif statement and create a simple Treasure Island Game.
+**Description:**  
+A simple Python adventure game designed to practice **if, else, and elif statements**. The player makes choices at crossroads, lakes, and doors to find the treasure.
+
+**Key Concepts Learned:**  
+- Conditional statements (`if`, `elif`, `else`)  
+- Nesting conditions to handle multiple decision paths  
+- Collecting and processing user input with `input()`  
+- Converting input to lowercase for consistency with `.lower()`  
+- Basic string handling and output formatting  
